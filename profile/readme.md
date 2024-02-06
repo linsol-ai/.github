@@ -1,0 +1,4 @@
+<img src="./logo-w.png" alt="logo" width="100px">
+
+## 린솔(Linsol)
+### 위험·사고·환경 등 실시간 위치탐색 전문기업
